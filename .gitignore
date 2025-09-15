@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Arquivos de dados grandes
+data/yellow_tripdata_2015-01.csv
+
 # Distribution / packaging
 .Python
 build/
