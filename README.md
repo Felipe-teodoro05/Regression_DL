@@ -3,7 +3,6 @@
 Este projeto implementa um modelo de regressão com redes neurais (usando PyTorch) para prever o valor total das corridas de táxi em Nova York. O destaque da análise é a utilização de **estratificação geográfica** (bairros e zonas) e **segmentação temporal** para enriquecer as features do modelo, alcançando um coeficiente de determinação ($R^2$) de **0.9729** no conjunto de teste.
 
 ![Previsões vs Reais](images/result.png)
-*(Sugestão: Adicione um print do seu gráfico de "Previsões vs. Valores Reais" a uma pasta `images` e o insira aqui)*
 
 ---
 
